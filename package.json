@@ -1,0 +1,15 @@
+{
+  "name": "dkportscanner",
+  "version": "1.0.0",
+  "description": "TCP Port Scanner",
+  "main": "scan.js",
+  "scripts": {
+    "scan": "node scan.js"
+  },
+  "author": "Kacper 'DeeKaPPy' Horbacz",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "is-port-reachable": "^3.0.0"
+  }
+}
